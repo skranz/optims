@@ -1,0 +1,12 @@
+Package: optims
+Type: Package
+Title: Trying different methods for optimization
+Version: 0.1
+Date: 2015-09-19
+Author: Sebastian Kranz
+Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
+Description: Trying different methods for optimization
+License: GPL >= 2.0
+LazyData: TRUE
+Depends: restorepoint
+
